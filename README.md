@@ -42,6 +42,10 @@ data/raw/ 폴더에 아래 파일을 직접 넣어주세요.
 
 ## 환경 설정
 
+- Python 3.10.11
+- VS Code
+- Jupyter Notebook
+
 pip install pandas scikit-learn xgboost lightgbm joblib shap
 
 ---
